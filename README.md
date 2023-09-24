@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/67/76/qtpSIw.jpg)
+[!MasterHead(https://cdn.wallpapersafari.com/67/76/qtpSIw.jpg)]
 <h1 align="center">Hi 👋, I'm Vaibhav lohani</h1>
 <h3 align="center">A passionate data enthusiast from India</h3>
 <img align="right" alt=Coding width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">  
