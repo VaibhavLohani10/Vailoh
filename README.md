@@ -4,7 +4,7 @@
 <img align="right" alt=Coding width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vailoh&label=Profile%20views&color=0e75b6&style=flat" alt="vailoh" /> </p>
-
+- **Data is the canvas, analysis is the art, and machine learning is the brushstroke**
 - 🔭 I’m currently working on **Telangana growth analysis**
 
 - 🌱 I’m currently learning **Data science & Machine learning**
